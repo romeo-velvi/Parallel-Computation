@@ -1,0 +1,1 @@
+sommare le righe di una matrice, sommare gli elementi in riga e metterle in un array. successivamente calcolare la somma
